@@ -1,0 +1,1 @@
+# stock-portfolio-management-design-non-functional
